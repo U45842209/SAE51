@@ -1,0 +1,31 @@
+vendor_name,operating_system,cpu_family,ram_amount,bought_in
+Acer,Windows 10,Intel i5,18,2022
+HP,Windows 7,Intel i7,16,2009
+Acer,Windows 10,Intel i7,19,2011
+Lenovo,macOS,Intel i7,30,2015
+HP,macOS,AMD Ryzen 5,14,2011
+Dell,Ubuntu,Intel i5,5,2011
+Acer,Windows 7,Intel i5,4,2021
+Dell,Windows 10,Intel i7,18,2014
+Dell,Ubuntu,Intel i5,10,2009
+Dell,macOS,Intel i7,24,2011
+Lenovo,macOS,AMD Ryzen 5,32,2014
+Acer,Windows 7,Intel i7,25,2021
+Lenovo,Windows 10,Intel i5,4,2021
+Lenovo,macOS,Intel i5,24,2009
+Lenovo,Windows 10,AMD Ryzen 5,20,2011
+Lenovo,macOS,Intel i5,5,2019
+HP,Windows 10,Intel i7,28,2011
+Dell,Windows 10,AMD Ryzen 5,12,2023
+Lenovo,Windows 10,Intel i7,20,2021
+Lenovo,Windows 7,AMD Ryzen 5,7,2014
+Dell,Windows 7,AMD Ryzen 5,5,2021
+Dell,Windows 7,AMD Ryzen 5,30,2017
+Dell,Ubuntu,Intel i5,4,2023
+Acer,Windows 10,AMD Ryzen 5,5,2013
+Acer,Windows 10,Intel i5,9,2008
+Acer,Ubuntu,Intel i7,23,2017
+Acer,macOS,AMD Ryzen 5,17,2022
+HP,Ubuntu,Intel i5,15,2023
+Acer,Ubuntu,AMD Ryzen 5,19,2018
+HP,Windows 10,AMD Ryzen 5,13,2020
