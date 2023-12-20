@@ -17,8 +17,28 @@ du conteneur ;
 — un unique script reprenant les requêtes décrites ci-dessus, avec éventuellement des fichiers annexes contenant les requêtes SQL si elles sont trop complexes pour être mises directement dans
 le script.
 
+<<<<<<< HEAD
 ## Utilisation
 
 **->  dossier sql_data**
 
 Lancer le fichier python : generator.py
+=======
+## Procédure
+
+Dans un premier temps nous avons élaboré un plan SQL, qui a déterminé l’emplacement de chaque clef.
+Nous sommes arrivés à un fichier SQL pour notre BDD.
+
+Échantillon de notre fichier SQL.
+
+
+
+
+Nous avons généré à l’aide de python et du module Faker, des fichier CSV à injecter dans notre BDD.
+L’injection des données est gérée en python via le module MySql connector.
+
+Les requêtes sont aussi gérées en python via MySql connector à l’instar des injections. Et pour une simplicité d’utilisation, les requêtes peuvent être visualisées via un serveur Flask.
+
+
+
+>>>>>>> 131ff0d7e734498f2e5a9d853b0d54fd846a2c44
