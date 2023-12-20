@@ -68,4 +68,4 @@ convert-svg-to-png dump.svg
 
 ## Etape 7
 
-![dump](C:\Users\Marc\Desktop\dump.png)
+![dump](dump.png)
