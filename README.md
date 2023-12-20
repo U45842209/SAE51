@@ -16,3 +16,9 @@ du conteneur ;
 
 — un unique script reprenant les requêtes décrites ci-dessus, avec éventuellement des fichiers annexes contenant les requêtes SQL si elles sont trop complexes pour être mises directement dans
 le script.
+
+## Utilisation
+
+**->  dossier sql_data**
+
+Lancer le fichier python : generator.py
