@@ -30,8 +30,6 @@ L’injection des données est gérée en python via le module MySql connector.
 
 Les requêtes sont aussi gérées en python via MySql connector à l’instar des injections. Et pour une simplicité d’utilisation, les requêtes peuvent être visualisées via un serveur Flask.
 
-Voir 
-
-[Guide]: Guide.md
+Voir la documention [ici](Guide.md)
 
 
