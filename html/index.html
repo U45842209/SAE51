@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>Your Flask App</title>
+</head>
+<body>
+    <form method="post">
+        <fieldset>
+            <legend>Exo number :</legend>
+            <input type="number" min="1" max="12" name="number">
+            <button type="submit">Get result</button>
+        </fieldset>
+    </form>
+    {% for rows in result %}
+    <p style="visibility:{{ visibility }}">{{ rows }}</p>
+    {% endfor %}
+</body>
+</html>
