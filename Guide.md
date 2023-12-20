@@ -44,6 +44,6 @@ Dans cette ordre précis, le premier créer la donnée et le second l'injecte da
 
 ### Etape 4
 
-Si l'étape 3 est fonctionnelle dans ce cas, il ne reste plus que a utiliser modifier l'IP dans le dossier sql_interact, fichier main.py.
+Si l'étape 3 est fonctionnelle dans ce cas, il ne reste plus que a utiliser **main.py** modifier l'IP dans le dossier sql_interact, fichier main.py.
 
 Vous aurez donc accès une fois lancée a une interface pour interagir avec la database.
