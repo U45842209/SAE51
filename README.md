@@ -24,6 +24,7 @@ Nous sommes arrivés à un fichier SQL pour notre BDD.
 
 Échantillon de notre fichier SQL.
 
+Voir Docker Compose [ici](docker-compose.yml)
 
 Nous avons généré à l’aide de python et du module Faker, des fichier CSV à injecter dans notre BDD.
 L’injection des données est gérée en python via le module MySql connector.
