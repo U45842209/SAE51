@@ -29,7 +29,7 @@ Voir Docker Compose [ici](docker-compose.yml)
 Nous avons généré à l’aide de python et du module Faker [ici](sql_data/generator.py), des fichier CSV à injecter dans notre BDD.
 L’injection des données est gérée en python via le module MySql connector.
 
-Les requêtes sont aussi gérées en python via MySql connector à l’instar des injections[ici](sql_interact/main.py). Et pour une simplicité d’utilisation, les requêtes peuvent être visualisées via un serveur Flask.
+Les requêtes sont aussi gérées en python via MySql connector à l’instar des injections [ici](sql_interact/main.py). Et pour une simplicité d’utilisation, les requêtes peuvent être visualisées via un serveur Flask.
 
 Voir la documention [ici](Guide.md)
 
